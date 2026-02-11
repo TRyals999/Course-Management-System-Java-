@@ -83,33 +83,43 @@ Compile and run Main.java
 
 ## Example Output (Optional)
 Students in the course:
+
 Student Id: 123-45-6789
 Name: Homer Simpson
 Exams: 58.7 79.2 68.8 73.4 
+
 Student Id: 765-43-2100
 Name: Marge Simpson
 Exams: 85.5 79.6 81.8 88.3 
+
 Student Id: 999-99-9999
 Name: Lisa Simpson
-Exams: 94.8 93.3 97.7 98.2 
+Exams: 94.8 93.3 97.7 98.2
+
 Student Id: 666-66-6666
 Name: Bart Simpson
 Exams: 21.5 31.8 44.2 29.7 
+
 Student Id: 317-46-2525
 Name: Ned Flanders
 Exams: 92.3 91.8 81.7 89.4 
+
 Student Id: 826-55-5551
 Name: Ralph Wiggum
 Exams: 4.5 8.2 6.1 11.8 
+
 Student Id: 301-33-4412
 Name: Selma Bouvier
-Exams: 65.3 71.2 58.7 81.1 
+Exams: 65.3 71.2 58.7 81.1
+
 Student Id: 448-44-5511
 Name: Nelson Muntz
 Exams: 0.0 0.0 0.0 0.0 
+
 Student Id: 611-66-1234
 Name: Moe Syzylak
 Exams: 28.6 11.5 38.3 41.7 
+
 
 
 🚀 Future Improvements
