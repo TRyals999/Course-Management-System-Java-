@@ -122,7 +122,7 @@ Exams: 28.6 11.5 38.3 41.7
 
 
 
-🚀 Future Improvements
+## Future Improvements
 Support for adding/removing exams dynamically
 
 Weighted grading system
